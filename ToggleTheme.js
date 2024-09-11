@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ThemeProvider } from 'styled-components/native';
 import styled from 'styled-components/native';
-import { View, ScrollView, Image as PetImage } from 'react-native';
+import { View, ScrollView, Image } from 'react-native';
 
 // Define light and dark themes
 

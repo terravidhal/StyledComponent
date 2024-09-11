@@ -18,7 +18,7 @@ const ToggleTheme = () => {
             <StyledText>Pet Care Guide</StyledText>
           </View>
 
-         
+         {/* Define Pet Care Section */}
 
         </ScrollView>
         
